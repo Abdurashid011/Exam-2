@@ -1,0 +1,21 @@
+{
+    "name": "abdurashid/exam_month_2",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdurashid011",
+            "email": "abdumajidovabdurashid1504@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "guzzlehttp/guzzle": "^7.9",
+      "ext-pdo": "*",
+      "ext-http": "*"
+    }
+}
